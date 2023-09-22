@@ -6,4 +6,4 @@
 
 💞️ I'm looking to collaborate on climate research projects focused on poverty and its relationship with climate change.
 
-📫 How to reach me: You can connect with me on my LinkedIn account [inkedin.com/in/alokita-jha-2304bb19b/].
+📫 How to reach me: You can connect with me on my LinkedIn account linkedin.com/in/alokita-jha-2304bb19b
