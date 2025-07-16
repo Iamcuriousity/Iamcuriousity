@@ -1,9 +1,6 @@
--👋 Hi, I'm Alokita, a passionate climate advocate and researcher.
-
-👀 I'm interested in climate policy research, advocacy, and lifelong learning.
-
-🌱 I'm currently learning more about the intersections of poverty and climate issues to drive meaningful research and change.
-
-💞️ I'm looking to collaborate on climate research projects focused on poverty and its relationship with climate change.
-
-📫 How to reach me: You can connect with me on my LinkedIn account linkedin.com/in/alokita-jha-2304bb19b
+Former Data Fellow at J-PAL South Asia | Host institution: ICRISAT  
+🌿 I work at the intersection of climate, nutrition, and public health in India and the Global South  
+🛰️ My research blends satellite data (NDVI, rainfall) with survey datasets (NFHS/DHS) to generate insights for policy
+🔬 Interests: Causal inference, geospatial analytics, AI for public systems, impact evaluation  
+📝 Currently writing: *Maternal Health and Child Malnutrition in India: Exploring Causal Pathways*  
+🌐 Featured by UN Food Systems Hub, Data.org, FAO-EESC, and more
